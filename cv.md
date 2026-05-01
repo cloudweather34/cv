@@ -64,7 +64,7 @@
 
 2. Liu, Z-Y., Berthel, A., Czech, E., Stitzer, M., **Hsu, S-K.**, Pennell, M., Buckler, E.S., & Zhai, J. (2025). **GeneCAD: Plant Genome Annotation with a DNA Foundation Model**. *bioRxiv.* https://doi.org/10.1101/2025.10.31.685877
 
-3. Zhai, J., Gokaslan, A., **Hsu, S-K.**, Chen, S-P., Liu, Z-Y., Marroquin, E., Czech, E., Cannon, B., Berthel, A., Romay, M.C., Pennell, M., Kuleshov, V., & Buckler, E.S. (2025). **PlantCAD2: A Long-Context DNA Language Model for Cross-Species Functional Annotation in Angiosperms**. *bioRxiv.* https://doi.org/10.1101/2025.08.27.672609
+3. Zhai, J., Gokaslan, A., **Hsu, S-K.**, Chen, S-P., Liu, Z-Y., Marroquin, E., Czech, E., Cannon, B., Berthel, A., Romay, M.C., Pennell, M., Kuleshov, V., & Buckler, E.S. (2025). **PlantCAD2: a DNA foundation model for interpreting genomes across flowering plants**. *bioRxiv.* https://doi.org/10.1101/2025.08.27.672609
 
 4. Oren, E., Zhai, J., Rooney, T.E., Angelovici, R., Hale, C.O., Brindisi, L.J., **Hsu, S-K.**, Gault, C.M., Hua, J., La, T., Lepak, N., Fu, Q., Buckler, E.S., & Romay, M.C. (2025). **Constrained evolution of a core winter proteome across independently cold-adapted PACMAD grasses**. *bioRxiv.* https://doi.org/10.1101/2025.05.15.654294
 
@@ -93,4 +93,4 @@
 
 
 
-_Last updated: 2026-04-01_
+_Last updated: 2026-05-01_
