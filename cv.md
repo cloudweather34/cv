@@ -58,29 +58,31 @@
 
 ## Preprints
 
-1. Ojeda-Rivera, J.O., Oren, E., **Hsu, S-K.**, Lepak, N., La, T., Zhai, J., Stitzer, M.C., Yobi, A., Angelovici, R., Buckler, E.S., & Romay, M.C. (2026). **A transcriptomic atlas of grass senescence reveals divergent underground sink networks limit nitrogen recycling in annuals**. *bioRxiv.* https://doi.org/10.64898/2026.05.05.723041
+1. **Hsu, S-K.**, Schulz, A.J., Hale, C.O., Costa-Neto, G., Miller, Z.R., Stitzer, M.C., Wrightsman, T., Zhai, J., Lai, W-Y., Dawson, H.D., & *et al.* (2026). **Convergent genome- and gene-level constraints shape repeated environmental adaptation in grasses**. *bioRxiv.* https://doi.org/10.64898/2026.06.01.729361
 
-2. El-Walid, M.Z., Gault, C.M., Costich, D.E., Lepak, N.K., Budka, J.S., Stitzer, M.C., Giri, A., Rees, E., Romay, M.C., Buckler, E.S., & **Hsu, S-K.** (2025). **Identification of Freezing Tolerance QTLs in
+2. Ojeda-Rivera, J.O., Oren, E., **Hsu, S-K.**, Lepak, N., La, T., Zhai, J., Stitzer, M.C., Yobi, A., Angelovici, R., Buckler, E.S., & Romay, M.C. (2026). **A transcriptomic atlas of grass senescence reveals divergent underground sink networks limit nitrogen recycling in annuals**. *bioRxiv.* https://doi.org/10.64898/2026.05.05.723041
+
+3. El-Walid, M.Z., Gault, C.M., Costich, D.E., Lepak, N.K., Budka, J.S., Stitzer, M.C., Giri, A., Rees, E., Romay, M.C., Buckler, E.S., & **Hsu, S-K.** (2025). **Identification of Freezing Tolerance QTLs in
                   <i>Tripsacum dactyloides</i>
                   Using Open-Pollinated Bulk Segregant Analysis**. *bioRxiv.* https://doi.org/10.64898/2025.12.10.693030
 
-3. Liu, Z-Y., Berthel, A., Czech, E., Marroquin, E., Stitzer, M., **Hsu, S-K.**, Pennell, M., Buckler, E.S., & Zhai, J. (2025). **GeneCAD: Plant Genome Annotation with a DNA Foundation Model**. *bioRxiv.* https://doi.org/10.1101/2025.10.31.685877
+4. Liu, Z-Y., Berthel, A., Czech, E., Marroquin, E., Stitzer, M., **Hsu, S-K.**, Pennell, M., Buckler, E.S., & Zhai, J. (2025). **GeneCAD: Plant Genome Annotation with a DNA Foundation Model**. *bioRxiv.* https://doi.org/10.1101/2025.10.31.685877
 
-4. Zhai, J., Gokaslan, A., **Hsu, S-K.**, Chen, S-P., Liu, Z-Y., Marroquin, E., Czech, E., Cannon, B., Berthel, A., Romay, M.C., Pennell, M., Kuleshov, V., & Buckler, E.S. (2025). **PlantCAD2: a DNA foundation model for interpreting genomes across flowering plants**. *bioRxiv.* https://doi.org/10.1101/2025.08.27.672609
+5. Zhai, J., Gokaslan, A., **Hsu, S-K.**, Chen, S-P., Liu, Z-Y., Marroquin, E., Czech, E., Cannon, B., Berthel, A., Romay, M.C., Pennell, M., Kuleshov, V., & Buckler, E.S. (2025). **PlantCAD2: a DNA foundation model for interpreting genomes across flowering plants**. *bioRxiv.* https://doi.org/10.1101/2025.08.27.672609
 
-5. Oren, E., Zhai, J., Rooney, T.E., Angelovici, R., Hale, C.O., Brindisi, L.J., **Hsu, S-K.**, Gault, C.M., Hua, J., La, T., Lepak, N., Fu, Q., Buckler, E.S., & Romay, M.C. (2025). **Constrained evolution of a core winter proteome across independently cold-adapted PACMAD grasses**. *bioRxiv.* https://doi.org/10.1101/2025.05.15.654294
+6. Oren, E., Zhai, J., Rooney, T.E., Angelovici, R., Hale, C.O., Brindisi, L.J., **Hsu, S-K.**, Gault, C.M., Hua, J., La, T., Lepak, N., Fu, Q., Buckler, E.S., & Romay, M.C. (2025). **Constrained evolution of a core winter proteome across independently cold-adapted PACMAD grasses**. *bioRxiv.* https://doi.org/10.1101/2025.05.15.654294
 
-6. Hale, C.O., **Hsu, S-K.**, Zhai, J., Schulz, A.J., Aubuchon-Elder, T., Costa-Neto, G., Gelfond, A., El-Walid, M., Hufford, M., Kellogg, E.A., La, T., Marand, A.P., Seetharam, A.S., Scheben, A., Stitzer, M., Wrightsman, T., Romay, M.C., & Buckler, E.S. (2025). **Extensive modulation of a conserved
+7. Hale, C.O., **Hsu, S-K.**, Zhai, J., Schulz, A.J., Aubuchon-Elder, T., Costa-Neto, G., Gelfond, A., El-Walid, M., Hufford, M., Kellogg, E.A., La, T., Marand, A.P., Seetharam, A.S., Scheben, A., Stitzer, M., Wrightsman, T., Romay, M.C., & Buckler, E.S. (2025). **Extensive modulation of a conserved
                   <i>cis</i>
                   -regulatory code across 589 grass species**. *bioRxiv.* https://doi.org/10.1101/2025.04.23.650228
 
-7. Lai, W-Y., **Hsu, S-K.**, Futschik, A., & Schlötterer, C. (2025). **Pleiotropy increases parallel selection signatures during adaptation from standing genetic variation**. *bioRxiv.* https://doi.org/10.7554/eLife.102321.2
+8. Lai, W-Y., **Hsu, S-K.**, Futschik, A., & Schlötterer, C. (2025). **Pleiotropy increases parallel selection signatures during adaptation from standing genetic variation**. *bioRxiv.* https://doi.org/10.7554/eLife.102321.2
 
-8. Stitzer, M.C., Seetharam, A.S., Scheben, A., **Hsu, S-K.**, Schulz, A.J., AuBuchon-Elder, T.M., El-Walid, M., Ferebee, T.H., Hale, C.O., La, T., & *et al.* (2025). **Extensive genome evolution distinguishes maize within a stable tribe of grasses**. *bioRxiv.* https://doi.org/10.1101/2025.01.22.633974
+9. Stitzer, M.C., Seetharam, A.S., Scheben, A., **Hsu, S-K.**, Schulz, A.J., AuBuchon-Elder, T.M., El-Walid, M., Ferebee, T.H., Hale, C.O., La, T., & *et al.* (2025). **Extensive genome evolution distinguishes maize within a stable tribe of grasses**. *bioRxiv.* https://doi.org/10.1101/2025.01.22.633974
 
-9. Lai, W-Y., **Hsu, S-K.**, Futschik, A., & Schlötterer, C. (2024). **Pleiotropy increases parallel selection signatures during adaptation from standing genetic variation**. *bioRxiv.* https://doi.org/10.7554/eLife.102321.1
+10. Lai, W-Y., **Hsu, S-K.**, Futschik, A., & Schlötterer, C. (2024). **Pleiotropy increases parallel selection signatures during adaptation from standing genetic variation**. *bioRxiv.* https://doi.org/10.7554/eLife.102321.1
 
-10. Schulz, A.J., Zhai, J., AuBuchon-Elder, T., El-Walid, M., Ferebee, T.H., Gilmore, E.H., Hufford, M.B., Johnson, L.C., Kellogg, E.A., La, T., Long, E., Miller, Z.R., Romay, M.C., Seetharam, A.S., Stitzer, M.C., Wrightsman, T., Buckler, E.S., Monier, B., & **Hsu, S-K.** (2023). **Fishing for a reelGene: evaluating gene models with evolution and machine learning**. *bioRxiv.* https://doi.org/10.1101/2023.09.19.558246
+11. Schulz, A.J., Zhai, J., AuBuchon-Elder, T., El-Walid, M., Ferebee, T.H., Gilmore, E.H., Hufford, M.B., Johnson, L.C., Kellogg, E.A., La, T., Long, E., Miller, Z.R., Romay, M.C., Seetharam, A.S., Stitzer, M.C., Wrightsman, T., Buckler, E.S., Monier, B., & **Hsu, S-K.** (2023). **Fishing for a reelGene: evaluating gene models with evolution and machine learning**. *bioRxiv.* https://doi.org/10.1101/2023.09.19.558246
 
 
 # Presentations
@@ -99,4 +101,4 @@
 
 
 
-_Last updated: 2026-06-01_
+_Last updated: 2026-06-11_
