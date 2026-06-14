@@ -3,15 +3,15 @@ import re
 from datetime import date
 
 # USER CONFIG: Update these with your actual info
-NAME = "Sheng-Kai Hsu"
-EMAIL = "sh2246@cornell.edu"
+NAME = "Wei-Yun Lai"
+EMAIL = "wl748@cornell.edu"
 TITLE = "Postdoc"
 AFFILIATION = "Institute for Genomic Diversity, Cornell University"
-ORCID_ID = "0000-0002-6942-7163"  # replace with yours
+ORCID_ID = "0000-0002-5101-8695"  # replace with yours
 
 # For bolding your name
-YOUR_FAMILY_NAME = "Hsu"
-YOUR_INITIALS = "S.-K."  # Set to "W" or "W.-Y" depending on how it's recorded
+YOUR_FAMILY_NAME = "Lai"
+YOUR_INITIALS = "W.-Y."  # Set to "W" or "W.-Y" depending on how it's recorded
 
 # === MAIN FUNCTIONS ===
 
