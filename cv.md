@@ -34,11 +34,11 @@
 
 5. **Lai, W-Y.**, Otte, K.A., & Schlötterer, C. (2023). **Evolution of Metabolome and Transcriptome Supports a Hierarchical Organization of Adaptive Traits**. *Genome Biology and Evolution*, *15*(6). https://doi.org/10.1093/gbe/evad098
 
-6. Christodoulaki, E., Nolte, V., **Lai, W-Y.**, & Schlötterer, C. (2022). **Natural variation in Drosophila shows weak pleiotropic effects**. *Genome Biology*, *23*(1). https://doi.org/10.1186/s13059-022-02680-4
+6. Unknown Author (2022). **Natural variation in Drosophila shows weak pleiotropic effects**. *bioRxiv.* https://doi.org/10.1186/s13059-022-02680-4
 
 7. **Lai, W-Y.**, & Schlötterer, C. (2021). **Evolution of phenotypic variance in response to a novel hot environment**. *Molecular Ecology*, *31*(3), 934-945. https://doi.org/10.1111/mec.16274
 
-8. Huang, J-H., Liao, Y-R., Lin, T-C., Tsai, C-H., **Lai, W-Y.**, Chou, Y-K., Leu, J-Y., Tsai, H-K., & Kao, C-F. (2021). **iTARGEX analysis of yeast deletome reveals novel regulators of transcriptional buffering in S phase and protein turnover**. *Nucleic Acids Research*, *49*(13), 7318-7329. https://doi.org/10.1093/nar/gkab555
+8. Huang, J-H., Liao, Y-R., Lin, T-C., Tsai, C-H., **Lai, W-Y.**, Chou, Y-K., Leu, J-Y., Tsai, H-K., & Kao, C-F. (2021). **iTARGEX analysis of yeast deletome reveals novel regulators of transcriptional buffering in S phase and protein turnover**. *bioRxiv.* https://doi.org/10.1093/nar/gkab555
 
 ## Preprints
 
@@ -66,4 +66,4 @@
 
 
 
-_Last updated: 2026-07-01_
+_Last updated: 2026-08-01_
